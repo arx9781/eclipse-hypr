@@ -9,8 +9,9 @@ configuration {
     show-icons: false;
     icon-theme: "Kora";
     location: 0;
-    font: "Iosevka Nerd Font Medium 14";
-    display-drun: "Launch";
+    font: "GeistMono Medium 14";
+    font-weight: 600;
+    display-drun: "";
 }
 
 window { 

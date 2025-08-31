@@ -30,7 +30,7 @@ tmux + tokyo night theme (modified)
 
 - My setup was heavily inspired by this reddit [user](https://www.reddit.com/user/K_AON/). I saw their post on `r/UNIXPORN` and decided yeah, "I fw this", so I just want to give them a credit for it.
 
-- .zshrc config and some default tmux config is entirely based on [Dreams of Autonomys's](https://www.youtube.com/@dreamsofautonomy/featured) youtube channel. I highly recommend it if you're into these things.
+- .zshrc config and some default tmux config is entirely based on [Dreams of Autonomy's](https://www.youtube.com/@dreamsofautonomy/featured) youtube channel. I highly recommend it if you're into these things.
 
 ![ayanami-rei](https://github.com/user-attachments/assets/779c60d4-7e75-4023-9243-0df35e718d35)
 
