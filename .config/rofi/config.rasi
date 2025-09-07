@@ -9,7 +9,7 @@ configuration {
     show-icons: false;
     icon-theme: "Kora";
     location: 0;
-    font: "GeistMono Medium 14";
+    font: "Geist Medium 14";
     font-weight: 600;
     display-drun: "";
 }
