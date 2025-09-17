@@ -1,6 +1,6 @@
 {
     "layer": "top",
-    "position": "top",
+    "position": "bottom",
     "mod": "dock",
     "exclusive": true,
     "passtrough": false,
@@ -12,6 +12,7 @@
     "name": "horBar",
 
     "modules-left": [    
+    "custom/menu",
     "hyprland/workspaces",
     "tray"
     ],
@@ -151,6 +152,11 @@
 
     "custom/separator": {
     	"format": "::"
+    },
+
+    "custom/menu": {
+    	"format": "󰣇",
+    	"on-click": "exec rofi -show drun"
     }
     
 }

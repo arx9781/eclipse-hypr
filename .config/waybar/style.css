@@ -1,5 +1,5 @@
 * {
-    font-size: 15px;
+    font-size: 14px;
     border: none;
     font-family: GeistMono Nerd Font;
     /* font-family: VCR OSD Mono; */
@@ -109,4 +109,9 @@ tooltip {
 }
 #battery.critical:not(.charging) {
     color: #b7416e;
+}
+#custom-menu {
+	font-size: 16px;
+	padding: 0 10px 0 10px;
+	color: #949292;
 }
