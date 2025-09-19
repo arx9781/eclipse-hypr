@@ -1,8 +1,9 @@
 # start a new tmux window on terminal launch
-# if [[ -z "$TMUX" ]] && [[ "$TERM" != "screen" ]]; then
-#	tmux new-session -A -s "main"
-# fi
+if [[ -z "$TMUX" ]] && [[ "$TERM" != "screen" ]]; then
+	tmux new-session -A -s "main"
+fi
 
+kotofetch
 # create a directory for zinit and plugins
 ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
 
