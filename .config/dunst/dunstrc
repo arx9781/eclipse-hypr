@@ -1,10 +1,10 @@
 [global]
 follow = mouse
 width = 400
-height = 300
+height = (0, 300)
 notification_limit = 3
 origin = top-right
-offset = 10x10
+offset = (10, 10)
 indicate_hidden = true
 separator_height = 0
 padding = 30
@@ -14,7 +14,7 @@ sort = false
 idle_threshold = 0
 layer = top
 gap_size = 0
-font = Iosevka Nerd Font Mono 14
+font = GeistMono Nerd Font 14
 line_height = 4
 corner_radius = 4
 mouse_middle_click = context
